@@ -1,1 +1,1 @@
-Implementation of some numerical optimization methods
+Implementation of some numerical optimization methods during the course in MIPT.
